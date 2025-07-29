@@ -1,0 +1,2 @@
+
+c39a60ef740fdd270b15dbed39b2eff7b9a6ba58	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/nanoid","integrity":null,"time":1753797965216,"size":"0","metadata":{"time":1753797965216,"url":"http://registry.npmjs.org/nanoid","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:06:03 GMT","location":"https://registry.npmjs.org/nanoid","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+502770a46406899203e08a214588ccaaca07f635	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@eslint-community%2fregexpp","integrity":null,"time":1753797950266,"size":"0","metadata":{"time":1753797950266,"url":"http://registry.npmjs.org/@eslint-community%2fregexpp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:48 GMT","location":"https://registry.npmjs.org/@eslint-community%2Fregexpp","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+1baff11e44f4bc6a5214b117008530d3ac793c08	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@eslint%2fconfig-helpers","integrity":null,"time":1753797950219,"size":"0","metadata":{"time":1753797950219,"url":"http://registry.npmjs.org/@eslint%2fconfig-helpers","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:48 GMT","location":"https://registry.npmjs.org/@eslint%2Fconfig-helpers","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

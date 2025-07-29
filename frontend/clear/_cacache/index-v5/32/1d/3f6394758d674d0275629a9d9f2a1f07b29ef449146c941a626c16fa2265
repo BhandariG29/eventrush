@@ -1,0 +1,2 @@
+
+ec199bcb0cb77b7edbf45575dbf14e382f9b8112	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ansi-styles","integrity":null,"time":1753797959256,"size":"0","metadata":{"time":1753797959256,"url":"http://registry.npmjs.org/ansi-styles","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:57 GMT","location":"https://registry.npmjs.org/ansi-styles","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

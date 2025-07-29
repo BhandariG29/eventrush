@@ -1,0 +1,2 @@
+
+1735db3e3352a263c13a0a44735d7d8cc4a4654f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/esrecurse","integrity":null,"time":1753797959333,"size":"0","metadata":{"time":1753797959333,"url":"http://registry.npmjs.org/esrecurse","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:57 GMT","location":"https://registry.npmjs.org/esrecurse","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

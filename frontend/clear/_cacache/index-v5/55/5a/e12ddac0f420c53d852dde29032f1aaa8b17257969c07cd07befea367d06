@@ -1,0 +1,2 @@
+
+0a3be6b532c22c68def62be1afe9d2e6b7565f23	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/optionator","integrity":null,"time":1753797948618,"size":"0","metadata":{"time":1753797948618,"url":"http://registry.npmjs.org/optionator","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:46 GMT","location":"https://registry.npmjs.org/optionator","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

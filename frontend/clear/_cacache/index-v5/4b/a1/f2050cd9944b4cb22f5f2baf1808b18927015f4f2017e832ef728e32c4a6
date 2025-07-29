@@ -1,0 +1,2 @@
+
+55156fa2ac3a0b414fdfe4becbc028726b3f812c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2fandroid-arm","integrity":null,"time":1753797964421,"size":"0","metadata":{"time":1753797964420,"url":"http://registry.npmjs.org/@esbuild%2fandroid-arm","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:06:03 GMT","location":"https://registry.npmjs.org/@esbuild%2Fandroid-arm","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

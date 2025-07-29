@@ -1,0 +1,2 @@
+
+c19c7499cfa29665420cf3844dbc8c2b948408a1	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/acorn-jsx","integrity":null,"time":1753797959365,"size":"0","metadata":{"time":1753797959365,"url":"http://registry.npmjs.org/acorn-jsx","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:58 GMT","location":"https://registry.npmjs.org/acorn-jsx","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

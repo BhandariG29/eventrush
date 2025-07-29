@@ -1,0 +1,2 @@
+
+eb533eff4aceb0df51b140d764a3213fa29c36d4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cross-spawn","integrity":null,"time":1753797948616,"size":"0","metadata":{"time":1753797948616,"url":"http://registry.npmjs.org/cross-spawn","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:46 GMT","location":"https://registry.npmjs.org/cross-spawn","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

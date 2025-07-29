@@ -1,0 +1,2 @@
+
+d3dec8eb9be1132c0210460912c47305691d96f5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/escape-string-regexp","integrity":null,"time":1753797950016,"size":"0","metadata":{"time":1753797950016,"url":"http://registry.npmjs.org/escape-string-regexp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:48 GMT","location":"https://registry.npmjs.org/escape-string-regexp","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

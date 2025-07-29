@@ -1,0 +1,2 @@
+
+18f9c334bd73e9695a0a9e481897c5ddd07929d4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2fnetbsd-arm64","integrity":null,"time":1753797964940,"size":"0","metadata":{"time":1753797964940,"url":"http://registry.npmjs.org/@esbuild%2fnetbsd-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:06:03 GMT","location":"https://registry.npmjs.org/@esbuild%2Fnetbsd-arm64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

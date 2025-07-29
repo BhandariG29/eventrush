@@ -1,0 +1,2 @@
+
+f4b60981b0c58379f8e7d83b12010f0a470b7e4e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/yocto-queue","integrity":null,"time":1753797964041,"size":"0","metadata":{"time":1753797964041,"url":"http://registry.npmjs.org/yocto-queue","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:06:02 GMT","location":"https://registry.npmjs.org/yocto-queue","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

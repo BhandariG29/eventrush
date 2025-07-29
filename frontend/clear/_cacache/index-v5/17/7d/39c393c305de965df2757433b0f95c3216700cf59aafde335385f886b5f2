@@ -1,0 +1,2 @@
+
+4977bce91ddfc07d61588e68a64a886dd99cca52	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/isexe","integrity":null,"time":1753797961706,"size":"0","metadata":{"time":1753797961705,"url":"http://registry.npmjs.org/isexe","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:06:00 GMT","location":"https://registry.npmjs.org/isexe","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

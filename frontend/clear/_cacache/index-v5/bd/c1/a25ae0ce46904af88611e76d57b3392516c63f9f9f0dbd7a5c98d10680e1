@@ -1,0 +1,2 @@
+
+5d80b88ec8ea2f3a395415b68819ef7a9a626eb0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@jridgewell%2fresolve-uri","integrity":null,"time":1753797956716,"size":"0","metadata":{"time":1753797956716,"url":"http://registry.npmjs.org/@jridgewell%2fresolve-uri","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:55 GMT","location":"https://registry.npmjs.org/@jridgewell%2Fresolve-uri","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

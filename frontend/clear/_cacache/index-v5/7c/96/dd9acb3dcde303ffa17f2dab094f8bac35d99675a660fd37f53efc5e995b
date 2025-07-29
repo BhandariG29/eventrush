@@ -1,0 +1,2 @@
+
+31d2c309759de7a8f38740d4e81c5ff7296382d5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/browserslist","integrity":null,"time":1753797955987,"size":"0","metadata":{"time":1753797955987,"url":"http://registry.npmjs.org/browserslist","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:54 GMT","location":"https://registry.npmjs.org/browserslist","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

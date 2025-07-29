@@ -1,0 +1,2 @@
+
+cd4c433654b1cd99727db51dba0bee703a67bc99	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@rollup%2frollup-win32-x64-msvc","integrity":null,"time":1753797965989,"size":"0","metadata":{"time":1753797965989,"url":"http://registry.npmjs.org/@rollup%2frollup-win32-x64-msvc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:06:04 GMT","location":"https://registry.npmjs.org/@rollup%2Frollup-win32-x64-msvc","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

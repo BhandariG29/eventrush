@@ -1,0 +1,2 @@
+
+29b714e9e29535a23059955d4b6c32154579e0f3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel%2fcompat-data","integrity":null,"time":1753797955985,"size":"0","metadata":{"time":1753797955985,"url":"http://registry.npmjs.org/@babel%2fcompat-data","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:54 GMT","location":"https://registry.npmjs.org/@babel%2Fcompat-data","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

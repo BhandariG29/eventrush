@@ -1,0 +1,2 @@
+
+ca5943e83cdb2584c17c3ca476483e3f6dd24beb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/deep-is","integrity":null,"time":1753797959752,"size":"0","metadata":{"time":1753797959751,"url":"http://registry.npmjs.org/deep-is","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:58 GMT","location":"https://registry.npmjs.org/deep-is","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+160e09204dad935f43cee6146f50f200a618cceb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/electron-to-chromium","integrity":null,"time":1753797957035,"size":"0","metadata":{"time":1753797957035,"url":"http://registry.npmjs.org/electron-to-chromium","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:55 GMT","location":"https://registry.npmjs.org/electron-to-chromium","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

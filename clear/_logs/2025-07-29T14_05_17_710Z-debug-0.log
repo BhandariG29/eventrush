@@ -1,0 +1,69 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\sohar\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.5.1
+2 info using node@v22.17.0
+3 silly config load:file:C:\Users\sohar\AppData\Roaming\npm\node_modules\npm\npmrc
+4 warn "react-ts" is being parsed as a normal command line argument.
+5 warn Unknown cli config "--template". This will stop working in the next major version of npm.
+6 silly config load:file:C:\Users\sohar\OneDrive\Desktop\eventforge\.npmrc
+7 silly config load:file:C:\Users\sohar\.npmrc
+8 silly config load:file:C:\Users\sohar\AppData\Roaming\npm\etc\npmrc
+9 verbose title npm create vite@latest frontend react-ts
+10 verbose argv "create" "vite@latest" "frontend" "--template" "react-ts"
+11 verbose logfile logs-max:10 dir:C:\Users\sohar\OneDrive\Desktop\eventforge\clear\_logs\2025-07-29T14_05_17_710Z-
+12 verbose logfile C:\Users\sohar\OneDrive\Desktop\eventforge\clear\_logs\2025-07-29T14_05_17_710Z-debug-0.log
+13 silly logfile done cleaning log files
+14 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+15 http fetch GET 200 https://registry.npmjs.org/create-vite 3677ms (cache miss)
+16 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+17 http fetch GET 200 https://registry.npmjs.org/npm 7208ms
+18 silly idealTree buildDeps
+19 silly fetch manifest create-vite@7.0.3
+20 silly packumentCache full:http://registry.npmjs.org/create-vite cache-miss
+21 http fetch GET 200 https://registry.npmjs.org/create-vite 347ms (cache miss)
+22 silly packumentCache full:http://registry.npmjs.org/create-vite set size:undefined disposed:false
+23 silly placeDep ROOT create-vite@7.0.3 OK for:  want: 7.0.3
+24 silly reify moves {}
+25 silly audit bulk request { 'create-vite': [ '7.0.3' ] }
+26 http cache create-vite@https://registry.npmjs.org/create-vite/-/create-vite-7.0.3.tgz 0ms (cache hit)
+27 silly tarball no local data for create-vite@https://registry.npmjs.org/create-vite/-/create-vite-7.0.3.tgz. Extracting by manifest.
+28 notice Beginning October 4, 2021, all connections to the npm registry - including for package installation - must use TLS 1.2 or higher. You are currently using plaintext http to connect. Please visit the GitHub blog for more information: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/
+29 http fetch POST 426 http://registry.npmjs.org/-/npm/v1/security/advisories/bulk 109ms
+30 verbose audit error HttpErrorGeneral: 426 Upgrade Required - POST http://registry.npmjs.org/-/npm/v1/security/advisories/bulk
+30 verbose audit error     at C:\Users\sohar\AppData\Roaming\npm\node_modules\npm\node_modules\npm-registry-fetch\lib\check-response.js:103:15
+30 verbose audit error     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+30 verbose audit error     at async #getReport (C:\Users\sohar\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:275:19)
+30 verbose audit error     at async AuditReport.run (C:\Users\sohar\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:100:19) {
+30 verbose audit error   headers: [Object: null prototype] {
+30 verbose audit error     date: [ 'Tue, 29 Jul 2025 14:05:26 GMT' ],
+30 verbose audit error     'content-type': [ 'text/plain' ],
+30 verbose audit error     'content-length': [ '271' ],
+30 verbose audit error     connection: [ 'keep-alive' ],
+30 verbose audit error     'npm-notice': [
+30 verbose audit error       'Beginning October 4, 2021, all connections to the npm registry - including for package installation - must use TLS 1.2 or higher. You are currently using plaintext http to connect. Please visit the GitHub blog for more information: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/'
+30 verbose audit error     ],
+30 verbose audit error     vary: [ 'Accept-Encoding' ],
+30 verbose audit error     'set-cookie': [
+30 verbose audit error       '_cfuvid=b3svj7ue6iO5naKGpSH60xf5BQV0nAxbk9bjg_gu1wQ-1753797926839-0.0.1.1-604800000; path=/; domain=.npmjs.org; HttpOnly'
+30 verbose audit error     ],
+30 verbose audit error     server: [ 'cloudflare' ],
+30 verbose audit error     'cf-ray': [ '966d2bd2aaac54ec-DEL' ],
+30 verbose audit error     'x-fetch-attempts': [ '1' ]
+30 verbose audit error   },
+30 verbose audit error   statusCode: 426,
+30 verbose audit error   code: 'E426',
+30 verbose audit error   method: 'POST',
+30 verbose audit error   uri: 'http://registry.npmjs.org/-/npm/v1/security/advisories/bulk',
+30 verbose audit error   body: <Buffer 42 65 67 69 6e 6e 69 6e 67 20 4f 63 74 6f 62 65 72 20 34 2c 20 32 30 32 31 2c 20 61 6c 6c 20 63 6f 6e 6e 65 63 74 69 6f 6e 73 20 74 6f 20 6e 70 6d 20 ... 221 more bytes>,
+30 verbose audit error   pkgid: undefined
+30 verbose audit error }
+31 silly audit error Beginning October 4, 2021, all connections to npm websites and the npm registry - including for package installation - must use HTTPS and TLS 1.2 or higher.
+31 silly audit error
+31 silly audit error For more information see this blog post: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/
+32 silly audit report null
+33 http fetch GET 200 https://registry.npmjs.org/create-vite/-/create-vite-7.0.3.tgz 1405ms (cache miss)
+34 verbose cwd C:\Users\sohar\OneDrive\Desktop\eventforge
+35 verbose os Windows_NT 10.0.26100
+36 verbose node v22.17.0
+37 verbose npm  v11.5.1
+38 verbose exit 0
+39 info ok

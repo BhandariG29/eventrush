@@ -1,0 +1,2 @@
+
+3aaae11836bdd26c7206dd612535c644d33d0f1e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/find-up","integrity":null,"time":1753797948483,"size":"0","metadata":{"time":1753797948482,"url":"http://registry.npmjs.org/find-up","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:46 GMT","location":"https://registry.npmjs.org/find-up","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+0f9d80661ebb4c28e741430d91f6d126dd26e48a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/has-flag","integrity":null,"time":1753797961021,"size":"0","metadata":{"time":1753797961020,"url":"http://registry.npmjs.org/has-flag","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:59 GMT","location":"https://registry.npmjs.org/has-flag","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

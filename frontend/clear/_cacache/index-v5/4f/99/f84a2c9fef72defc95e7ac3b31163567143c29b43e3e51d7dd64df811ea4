@@ -1,0 +1,2 @@
+
+3e669ad09e38e87617354650c3af7f224ad77901	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@ampproject%2fremapping","integrity":null,"time":1753797955074,"size":"0","metadata":{"time":1753797955074,"url":"http://registry.npmjs.org/@ampproject%2fremapping","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 29 Jul 2025 14:05:53 GMT","location":"https://registry.npmjs.org/@ampproject%2Fremapping","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
