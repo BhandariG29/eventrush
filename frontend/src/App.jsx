@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Navbar from './components/Navbar.jsx'
+import Footer from './components/Footer.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,10 +12,10 @@ function App() {
 }, []);
 
   return (
-    <>
-      <h1>Hello from React frontend</h1>
-
-    </>
+    <div className ="bg-[#0d1117] min-h-screen text-white">
+      <Navbar/>
+      <Footer/>
+    </div>
   )
 }
 

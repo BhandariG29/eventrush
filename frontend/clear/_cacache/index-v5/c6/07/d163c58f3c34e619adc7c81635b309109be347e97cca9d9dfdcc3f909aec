@@ -1,0 +1,2 @@
+
+925ce6bbe5e7aaf51b5948fdc8346f819332e1e2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tailwindcss/node/-/node-4.1.11.tgz","integrity":null,"time":1754069295524,"size":"0","metadata":{"time":1754069295523,"url":"http://registry.npmjs.org/@tailwindcss/node/-/node-4.1.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 01 Aug 2025 17:28:07 GMT","location":"https://registry.npmjs.org/@tailwindcss/node/-/node-4.1.11.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

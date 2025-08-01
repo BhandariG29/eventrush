@@ -1,0 +1,2 @@
+
+d06f695818c7ff25e78074035290bba36c22d86e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tailwindcss%2foxide-wasm32-wasi","integrity":null,"time":1754069290681,"size":"0","metadata":{"time":1754069290681,"url":"http://registry.npmjs.org/@tailwindcss%2foxide-wasm32-wasi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 01 Aug 2025 17:28:02 GMT","location":"https://registry.npmjs.org/@tailwindcss%2Foxide-wasm32-wasi","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

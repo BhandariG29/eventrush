@@ -1,0 +1,2 @@
+
+e352740807b0bcc1df53d56f127db6941ca2f7ae	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lightningcss-darwin-x64","integrity":null,"time":1754069293682,"size":"0","metadata":{"time":1754069293682,"url":"http://registry.npmjs.org/lightningcss-darwin-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 01 Aug 2025 17:28:05 GMT","location":"https://registry.npmjs.org/lightningcss-darwin-x64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

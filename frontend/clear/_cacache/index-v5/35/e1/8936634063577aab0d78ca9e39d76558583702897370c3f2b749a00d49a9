@@ -1,0 +1,2 @@
+
+7434a39739e6b33e507a91878886b11504c052c2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tailwindcss%2foxide-darwin-x64","integrity":null,"time":1754069290685,"size":"0","metadata":{"time":1754069290685,"url":"http://registry.npmjs.org/@tailwindcss%2foxide-darwin-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 01 Aug 2025 17:28:02 GMT","location":"https://registry.npmjs.org/@tailwindcss%2Foxide-darwin-x64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

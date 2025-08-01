@@ -1,0 +1,2 @@
+
+64b2cf1e1c38fac4878d6e6bb1fe7f14a2ffc15d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@isaacs/fs-minipass/-/fs-minipass-4.0.1.tgz","integrity":null,"time":1754069295409,"size":"0","metadata":{"time":1754069295409,"url":"http://registry.npmjs.org/@isaacs/fs-minipass/-/fs-minipass-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 01 Aug 2025 17:28:07 GMT","location":"https://registry.npmjs.org/@isaacs/fs-minipass/-/fs-minipass-4.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

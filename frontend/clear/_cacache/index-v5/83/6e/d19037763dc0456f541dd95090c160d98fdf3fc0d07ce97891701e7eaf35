@@ -1,0 +1,2 @@
+
+8e046f6a922bd5e1dd2f4803cc5a2a08dadce945	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tailwindcss%2foxide","integrity":null,"time":1754069289484,"size":"0","metadata":{"time":1754069289484,"url":"http://registry.npmjs.org/@tailwindcss%2foxide","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 01 Aug 2025 17:28:01 GMT","location":"https://registry.npmjs.org/@tailwindcss%2Foxide","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
